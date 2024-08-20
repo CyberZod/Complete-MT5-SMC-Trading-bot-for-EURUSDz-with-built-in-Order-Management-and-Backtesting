@@ -7,7 +7,7 @@ from datetime import datetime, timezone, timedelta
 # Account credentials
 login = 81555550 #insert login here
 server = 'Exness-MT5Trial10' #insert actual server name here
-password = 'xyriehsje' #insert actual pwd here
+password = 'xyriehsAje' #insert actual pwd here
 
 symbols_to_trade = ["EURUSDz", "GBPUSDz"] 
 
